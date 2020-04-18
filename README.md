@@ -1,4 +1,3 @@
-# nbdev template
+# Imagenet
 
-Use this template to more easily create your nbdev project.
-
+Paper trail for training imagenet from scratch today (04/18/2020+)
